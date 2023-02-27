@@ -42,5 +42,6 @@ public class FirstSeleniumClass {
 		
 		driver.get("http://seleniumhq.org/");
 		driver.quit();
+		
 	}
 }

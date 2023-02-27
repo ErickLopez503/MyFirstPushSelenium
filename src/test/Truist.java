@@ -12,5 +12,7 @@ public class Truist {
 		// driver.get("http://seleniumhq.org/");
 
 		// driver.close();
+		
+		System.out.println("This is a new line");
 	}
 }
